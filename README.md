@@ -34,7 +34,7 @@ Built using **Streamlit**, **Gmail API**, **Google Calendar API**, and **Gemini/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-email-assistant.git
+git clone https://github.com/Rajjuram/ai-email-assistant.git
 cd ai-email-assistant
 
 # Create a virtual environment
