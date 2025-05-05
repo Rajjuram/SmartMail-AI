@@ -1,0 +1,2 @@
+# MyProject
+AI EMAIL ASSISTANT
