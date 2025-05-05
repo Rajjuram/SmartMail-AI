@@ -109,7 +109,7 @@ Streamlit
 
 Google APIs (Gmail + Calendar)
 
-Gemini / GPT
+Gemini
 
 DuckDuckGo Search API
 
