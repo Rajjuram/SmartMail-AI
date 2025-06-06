@@ -1,5 +1,4 @@
-# MyProject
-# 📬 AI Email Assistant
+# SmartMail AI
 
 An intelligent assistant that reads your Gmail, auto-replies to emails, schedules meetings, and summarizes your inbox using AI.
 
