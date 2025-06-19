@@ -1,4 +1,4 @@
-# SmartMail AI
+# Intelligent Email Management System using AI
 
 An intelligent assistant that reads your Gmail, auto-replies to emails, schedules meetings, and summarizes your inbox using AI.
 
